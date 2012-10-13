@@ -1,0 +1,4 @@
+ErlIde
+======
+
+ide for erlang
